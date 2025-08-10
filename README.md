@@ -59,9 +59,11 @@ I'm constantly exploring new challenges and honing my skills. Currently, my focu
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinhnhat.work@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhat-dinh)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QuackPhuc)
+[![Gmail](https://img.shields.io/badge/-dinhnhat.work@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dinhnhat.work@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/nhat--dinh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhat-dinh)
+&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-github.com/QuackPhuc-181717?style=flat&logo=github&logoColor=white)](https://github.com/QuackPhuc)
 
 </div>
 
